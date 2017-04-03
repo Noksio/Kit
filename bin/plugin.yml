@@ -1,0 +1,6 @@
+main: fr.blue.kfp.Main
+name: KitForPvP
+version: 1.0
+author: Noksio
+commands:
+  nd:
