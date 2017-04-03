@@ -31,7 +31,7 @@ public class Main extends JavaPlugin implements CommandExecutor{
 			
 			if(cmd.getName().equalsIgnoreCase("nd")){
 				if(args.length != 0){
-					p.sendMessage("§cUtilisation: /nd tamere");
+					p.sendMessage("§cUtilisation: /nd");
 					return false;
 				}
 				p.getInventory().clear();
